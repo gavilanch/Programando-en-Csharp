@@ -381,7 +381,7 @@ namespace HolaMundo
         }
 
         /// <summary>
-        /// Código utilizado para demostrar el poder de las herramientas de debuggind de Visual Studio
+        /// Código utilizado para demostrar el poder de las herramientas de debugging de Visual Studio
         /// </summary>
         static void debug_codigoConUnError()
         {
@@ -394,7 +394,7 @@ namespace HolaMundo
         }
 
         /// <summary>
-        ///Código utilizado para demostrar el poder de las herramientas de debuggind de Visual Studio 
+        ///Código utilizado para demostrar el poder de las herramientas de debugging de Visual Studio 
         /// </summary>
         /// <param name="monto"></param>
         /// <param name="cantidad"></param>
