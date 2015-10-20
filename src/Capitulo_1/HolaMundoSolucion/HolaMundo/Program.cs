@@ -10,7 +10,9 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
+
             // Aquí va tu código
+
             Console.Read();
         }
 
